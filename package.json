@@ -30,7 +30,7 @@
   "homepage": "https://github.com/bevacqua/dragula",
   "dependencies": {
     "contra": "1.9.4",
-    "crossvent": "1.5.4"
+    "crossvent": "github:nomadreservations/crossvent#ssr"
   },
   "devDependencies": {
     "bower": "1.5.2",
